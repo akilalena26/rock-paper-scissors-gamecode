@@ -1,5 +1,5 @@
-# rock-paper-scissors-gamecode
-# A mini work did to learn python... ;p
+#rock-paper-scissors-gamecode
+#A mini work did to learn python... ;p
 rock = '''
     _______
 ---'   ____)
